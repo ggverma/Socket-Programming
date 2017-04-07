@@ -1,3 +1,5 @@
+This sample performs mathematical calculations on a Server of the equations declared in a file on Client.
+
 How to run Server:
 The code is already compiled.
 Please use command "java Server 9990" to run.
@@ -17,7 +19,3 @@ To add expressions:
 Add the expressions on a new line.
 The function names should be capital between A to E.
 The expression must be valid with parenthesis.
-
-Submission By:
-Gautam Verma
-gverma@ncsu.edu
