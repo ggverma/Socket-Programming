@@ -1,4 +1,4 @@
-# Socket-Programming
+# Socket-Programming-Sample
 Socket Programming sample.
 
 ## This sample performs mathematical calculations on a Server of the equations declared in a file on Client.
